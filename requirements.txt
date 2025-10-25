@@ -1,0 +1,11 @@
+# -----------------------------
+# requirements.txt (paste into a separate file named requirements.txt)
+# -----------------------------
+streamlit
+langchain
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+google-generativeai
+numpy
